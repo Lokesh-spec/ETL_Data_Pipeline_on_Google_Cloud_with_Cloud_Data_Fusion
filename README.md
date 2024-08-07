@@ -24,12 +24,14 @@ The dataset includes the following fields:
 
 ## File Structure
 
-├── data_extraction.py # Script for data extraction using Faker library
+├── data_extraction.py         # Script for data extraction using Faker library
 ├── images/
-│ ├── ETL_Data_Pipeline_on_Google_Cloud_with_Cloud_Data_Fusion.jpg
-│ ├── Looker_Data_Vizualization.png
-├── employee_dag.py # Airflow DAG for automating the pipeline
-├── requirements.txt # Python dependencies
+│   ├── ETL_Data_Pipeline_on_Google_Cloud_with_Cloud_Data_Fusion.jpg
+│   ├── Looker_Data_Visualization.png
+├── employee_dag.py            # Airflow DAG for automating the pipeline
+├── requirements.txt           # Python dependencies
+└── .gitignore                 # Git ignore file
+
 
 
 ## Data Extraction
