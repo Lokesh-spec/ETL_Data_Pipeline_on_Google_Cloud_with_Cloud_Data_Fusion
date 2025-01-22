@@ -73,10 +73,3 @@ Develop a web-based dashboard using your preferred visualization tool, such as G
 ![Looker Data Visualization](images/Looker_Data_Visualization.png)
 
 ---
-
-### Additional Notes
-
-- Ensure sensitive data is properly masked before loading it into BigQuery.
-- Regularly update your Airflow DAG and requirements as needed.
-- Secure your data and access controls for the visualization tool to ensure employee data privacy.
-
